@@ -2,15 +2,19 @@
 	padding:0;margin:0;box-sizing:border-box;
 }
 
-.grid-container{
+.grid-container	{
 	max-width:100%;margin:0 auto;
 }
 
-.grid-container:after{
+.grid-container:after  {
 	content:"";display:table;clear:both;
 }
 
-[class*='grid']{float:left}
+[class*='grid']	{
+	float:left
+}
+
+//EXAMPLE
 
 @media (min-width: 1000px) {
 	.grid-1 {
