@@ -1,5 +1,8 @@
 *{padding:0;margin:0;box-sizing:border-box;}.grid-container{max-width:100%;margin:0 auto;}.grid-container:after{content:"";display:table;clear:both;}[class*='grid']{float:left}
 
+
+//EXAMPLE
+
 @media (min-width: 1000px) {
 	.grid-4 {
 		width: 33.333333%;
