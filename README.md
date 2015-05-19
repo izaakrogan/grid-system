@@ -2,7 +2,7 @@ This is a _tiny_ grid system for my own use.
 
 If you want to give it a whirl, grid elements are given a class starting with 'grid'
 
-You might want to stick those elements in the grid-container, with your html might looking something like this:
+You might want to stick those elements in the grid-container, with your html looking something like this:
 
 ```
 <div class="grid-container">
